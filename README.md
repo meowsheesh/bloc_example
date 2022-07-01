@@ -1,4 +1,4 @@
-# flutter_block
+# flutter_bloc
 
 A new Flutter project.
 
